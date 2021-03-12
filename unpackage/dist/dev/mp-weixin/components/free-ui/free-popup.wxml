@@ -1,0 +1,1 @@
+<block wx:if="{{status}}"><view style="overflow:hidden;z-index:99999;" class="_div"><view class="position-fixed top-0 left-0 right-0 bottom-0 _div" style="background-color:rgba(0,0,0,0.5);"></view><view class="position-fixed bg-white _div" style="left:100rpx;top:100rpx;"><slot></slot></view></view></block>

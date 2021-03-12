@@ -1,0 +1,118 @@
+@font-face {
+  font-family: 'iconfont';  /* project id 2204716 */
+  src: url('https://at.alicdn.com/t/font_2204716_we8y5j70nhg.eot');
+  src: url('https://at.alicdn.com/t/font_2204716_we8y5j70nhg.eot?#iefix') format('embedded-opentype'),
+  url('https://at.alicdn.com/t/font_2204716_we8y5j70nhg.woff2') format('woff2'),
+  url('https://at.alicdn.com/t/font_2204716_we8y5j70nhg.woff') format('woff'),
+  url('https://at.alicdn.com/t/font_2204716_we8y5j70nhg.ttf') format('truetype'),
+  url('https://at.alicdn.com/t/font_2204716_we8y5j70nhg.svg#iconfont') format('svg');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-message1:before {
+  content: "\e650";
+}
+
+.icon-yaoyiyao:before {
+  content: "\e827";
+}
+
+.icon-shoucang:before {
+  content: "\e610";
+}
+
+.icon-saoyisao:before {
+  content: "\e66d";
+}
+
+.icon-weixinzhifu:before {
+  content: "\e630";
+}
+
+.icon-gouwu:before {
+  content: "\e607";
+}
+
+.icon-souyisouicon:before {
+  content: "\e603";
+}
+
+.icon-tianjia:before {
+  content: "\e68a";
+}
+
+.icon-fujinderen:before {
+  content: "\e718";
+}
+
+.icon-weimingmingwenjianjia_tongxunlu:before {
+  content: "\e63a";
+}
+
+.icon-xiangce:before {
+  content: "\e6ad";
+}
+
+.icon-wo:before {
+  content: "\e645";
+}
+
+.icon-danyehuaban:before {
+  content: "\e636";
+}
+
+.icon-youxi:before {
+  content: "\e720";
+}
+
+.icon-shezhi1:before {
+  content: "\e600";
+}
+
+.icon-kanyikan:before {
+  content: "\e601";
+}
+
+.icon-scanning:before {
+  content: "\e67d";
+}
+
+.icon-user:before {
+  content: "\e682";
+}
+
+.icon-add-bold:before {
+  content: "\e685";
+}
+
+.icon-arrow-left-bold:before {
+  content: "\e686";
+}
+
+.icon-eyeclose_huaban1:before {
+  content: "\e676";
+}
+
+.icon-eyeopen_huaban1:before {
+  content: "\e677";
+}
+
+.icon-pengyouquan:before {
+  content: "\e60c";
+}
+
+.icon-logout:before {
+  content: "\e67b";
+}
+
+.icon-sousuo:before {
+  content: "\e602";
+}
+

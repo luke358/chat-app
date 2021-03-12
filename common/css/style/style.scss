@@ -1,0 +1,47 @@
+@import "./_variables.scss";
+* {
+  box-sizing: border-box;
+  outline: none;
+}
+
+// text overflow
+.text-ellipsis {
+  display: inline-block;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+//width,height
+
+.w-100 {
+  width: 100%;
+}
+.h-100 {
+  height: 100%;
+}
+
+// flex
+.flex {
+  display: flex;
+}
+.flex-column {
+  flex-direction: column;
+}
+.flex-wrap {
+  flex-wrap: wrap;
+}
+.flex-jc-c{
+	justify-content: center;
+}
+.flex-jc-s{
+	justify-content: flex-start;
+}
+.flex-jc-e{
+	justify-content: flex-end;
+}
+.align-item-c{
+	align-items: center;
+}
+
+
